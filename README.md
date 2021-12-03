@@ -1,1 +1,1 @@
-# PROC24-EPIC-ARCHERY_STAGE3
+# project-C24-template
